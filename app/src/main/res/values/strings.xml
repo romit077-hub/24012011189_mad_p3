@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">24012011189_mad_p3</string>
+    <string name="web_url_label">Web URL:</string>
+    <string name="default_web_url">https://www.google.com</string>
+    <string name="browse">Browse</string>
+    <string name="phone_no_label">Phone No :</string>
+    <string name="default_phone_no">9999999999</string>
+    <string name="call">Call</string>
+    <string name="call_log_label">Call Log :</string>
+    <string name="call_log">Call Log</string>
+    <string name="gallery_label">Gallery :</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera_label">Camera :</string>
+    <string name="camera">Camera</string>
+    <string name="alarm_label">Alarm :</string>
+    <string name="alarm">Alarm</string>
+    <string name="login_label">Login :</string>
+    <string name="login">Login</string>
 </resources>

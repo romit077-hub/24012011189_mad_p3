@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Base.Theme._24012011189_mad_p3" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
